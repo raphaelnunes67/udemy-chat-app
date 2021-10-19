@@ -1,0 +1,4 @@
+npm install electron@6 --save-dev electron
+npm install --save react react-dom
+npm install --save-dev @babel/preset-env @babel/preset-react @babel/core babel-loader css-loader sass sass-loader style-loader webpack webpack-cli
+npm install --save-dev electron-reload
